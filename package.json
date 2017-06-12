@@ -1,0 +1,16 @@
+{
+  "name": "spinpapi",
+  "version": "0.0.1",
+  "description": "Spinitron API implementation for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joshua Hassler <joshua_hassler@student.uml.edu> (http://wuml.org)",
+  "repository": "git@github.com:wuml-radio/spinpapi.git",
+  "license": "ISC",
+  "dependencies": {
+    "memory-cache": ">= 0.1.6"
+  }
+}
